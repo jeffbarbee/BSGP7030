@@ -20,6 +20,3 @@ Rscript -e 'IRkernel::installspec(name="ir_7030_class_1", displayname="R (7030_c
 
 # Start JupyterLab
 jupyter lab --no-browser --port=2000
-
-chmod +x setup_env.sh
-bash setup_env.sh
